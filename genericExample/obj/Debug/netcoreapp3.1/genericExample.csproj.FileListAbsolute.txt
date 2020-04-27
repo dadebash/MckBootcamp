@@ -1,0 +1,12 @@
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/bin/Debug/netcoreapp3.1/genericExample.deps.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/bin/Debug/netcoreapp3.1/genericExample.runtimeconfig.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/bin/Debug/netcoreapp3.1/genericExample.runtimeconfig.dev.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/bin/Debug/netcoreapp3.1/genericExample.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/bin/Debug/netcoreapp3.1/genericExample.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.csprojAssemblyReference.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.csproj.CoreCompileInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.AssemblyInfoInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.AssemblyInfo.cs
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/genericExample/obj/Debug/netcoreapp3.1/genericExample.genruntimeconfig.cache

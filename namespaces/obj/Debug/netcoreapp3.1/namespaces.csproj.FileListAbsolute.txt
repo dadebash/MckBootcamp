@@ -1,0 +1,12 @@
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/bin/Debug/netcoreapp3.1/namespaces.deps.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/bin/Debug/netcoreapp3.1/namespaces.runtimeconfig.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/bin/Debug/netcoreapp3.1/namespaces.runtimeconfig.dev.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/bin/Debug/netcoreapp3.1/namespaces.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/bin/Debug/netcoreapp3.1/namespaces.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.csprojAssemblyReference.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.csproj.CoreCompileInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.AssemblyInfoInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.AssemblyInfo.cs
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/namespaces/obj/Debug/netcoreapp3.1/namespaces.genruntimeconfig.cache

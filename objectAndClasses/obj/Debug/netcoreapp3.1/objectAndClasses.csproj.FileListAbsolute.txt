@@ -1,0 +1,12 @@
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/bin/Debug/netcoreapp3.1/objectAndClasses.deps.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/bin/Debug/netcoreapp3.1/objectAndClasses.runtimeconfig.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/bin/Debug/netcoreapp3.1/objectAndClasses.runtimeconfig.dev.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/bin/Debug/netcoreapp3.1/objectAndClasses.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/bin/Debug/netcoreapp3.1/objectAndClasses.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.csprojAssemblyReference.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.csproj.CoreCompileInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.AssemblyInfoInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.AssemblyInfo.cs
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/objectAndClasses/obj/Debug/netcoreapp3.1/objectAndClasses.genruntimeconfig.cache

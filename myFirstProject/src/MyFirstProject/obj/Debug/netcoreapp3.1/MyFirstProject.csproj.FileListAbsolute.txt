@@ -1,0 +1,12 @@
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.deps.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.dev.json
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csprojAssemblyReference.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfoInputs.cache
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfo.cs
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/debas/dadebash/work/csharptut/dot-net-projects/myFirstProject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.genruntimeconfig.cache
