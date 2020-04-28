@@ -1,0 +1,12 @@
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/bin/Debug/netcoreapp3.1/serializationSession.deps.json
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/bin/Debug/netcoreapp3.1/serializationSession.runtimeconfig.json
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/bin/Debug/netcoreapp3.1/serializationSession.runtimeconfig.dev.json
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/bin/Debug/netcoreapp3.1/serializationSession.dll
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/bin/Debug/netcoreapp3.1/serializationSession.pdb
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.csprojAssemblyReference.cache
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.csproj.CoreCompileInputs.cache
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.AssemblyInfoInputs.cache
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.AssemblyInfo.cs
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.dll
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.pdb
+/Users/debashisdas/dadebash/Tutorial/MckBootcamp/serializationSession/obj/Debug/netcoreapp3.1/serializationSession.genruntimeconfig.cache
